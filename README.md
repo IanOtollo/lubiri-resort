@@ -58,7 +58,7 @@ Run the SQL commands in `supabase/schema.sql` in your Supabase SQL editor to cre
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the website.
+Open [http://localhost:3000](http://localhost:3000) to view the website. ^/(or any local port number available on your PC)
 
 ## Deployment to Vercel
 
